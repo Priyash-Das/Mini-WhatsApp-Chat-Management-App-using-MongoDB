@@ -1,0 +1,63 @@
+body{
+    margin: 20px;
+}
+.chat{
+    width: 300px;
+    background-color: cadetblue;
+    padding-left: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    margin-bottom: 30px;
+}
+.msg{
+    border-radius: 10px;
+    padding: 6px;
+    color: white;
+    background-color: rgb(171, 111, 111);
+}
+.edit-btn{
+    float: right; 
+    height: 35px; 
+    width: 40%; 
+    border-radius: 10px; 
+    border: 4px solid cadetblue;
+    background-color: burlywood;
+    cursor: pointer;
+}
+.edit-btn:hover{
+    background-color: bisque;
+    border: 3px solid cadetblue;
+}
+.delete-btn{
+    float: right;
+    height: 35px;
+    width: 40%;
+    border-radius: 10px;
+    border: 4px solid cadetblue;
+    background-color: crimson;
+    cursor: pointer;
+}
+.delete-btn:hover{
+    background-color: darkred;
+    border: 3px solid cadetblue;
+}
+.container{
+    margin: 0 auto;
+    margin-top: 100px;
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+.tight-gap {
+    margin-bottom: 5px;
+    margin-top: 0;
+    font-style: italic;
+}
+.letter-spacing{
+    letter-spacing: 1.5px; 
+    word-spacing: 2px;
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Chat</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <h2>Edit your chat:</h2>
+    <p class="tight-gap letter-spacing">This chat was sent from <%= chat.from %> to <%= chat.to %></p>
+    <p class="tight-gap">Chat ID: <%= chat._id %></p>
+    <div class="container">
+        <form method="POST" action="/chats/<%= chat._id %>?_method=PUT">
+            <textarea name="msg" rows="8" cols="35"><%= chat.msg %></textarea>
+            <br>
+            <br>
+            <button>Edit</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -34,9 +34,9 @@ Project-root/
         │       └──── style.css
         │
         └──── views/
-            ├──── edit.ejs
-            ├──── index.ejs
-            └──── new.ejs
+        │    ├──── edit.ejs
+        │    ├──── index.ejs
+        │    └──── new.ejs
         │
         ├──── index.js
         ├──── init.js

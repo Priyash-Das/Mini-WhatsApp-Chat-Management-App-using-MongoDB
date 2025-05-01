@@ -12,7 +12,7 @@ This project is perfect for learning full-stack development concepts like RESTfu
 
 ## 🎥 Video Demo (MAIN)
 
-[Click here to watch the demo](https://github.com/Priyash-Das/Photos/blob/main/Mini%20WhatsApp%20-%20Chat%20Management%20App.mp4)  
+👉 [Click here to watch the demo](https://github.com/Priyash-Das/Photos/blob/main/Mini%20WhatsApp%20-%20Chat%20Management%20App.mp4)  
 
 ## ✨ Features
 

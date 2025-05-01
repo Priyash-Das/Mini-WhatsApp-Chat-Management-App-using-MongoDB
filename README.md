@@ -6,6 +6,10 @@ Mini WhatsApp is a lightweight chat management web application that mimics a sim
 
 This project is perfect for learning full-stack development concepts like RESTful routing, CRUD operations, EJS templating, MongoDB schema design, and more.
 
+## 📷 UI Preview
+
+![Mini WhatsApp - Chat Management App using MongoDB]()
+
 ## 🎥 Video Demo
 
 [Click here to watch the demo](https://github.com/Priyash-Das/Photos/blob/main/Mini%20WhatsApp%20-%20Chat%20Management%20App.mp4)  

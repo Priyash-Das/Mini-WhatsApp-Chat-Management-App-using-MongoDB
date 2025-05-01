@@ -8,9 +8,9 @@ This project is perfect for learning full-stack development concepts like RESTfu
 
 ## 📷 Preview
 
-![Mini WhatsApp - Chat Management App using MongoDB]()
+![Mini WhatsApp - Chat Management App using MongoDB](https://github.com/Priyash-Das/Photos/blob/main/Mini%20WhatsApp%20-%20Chat%20Management%20App.png)
 
-## 🎥 Video Demo
+## 🎥 Video Demo (MAIN)
 
 [Click here to watch the demo](https://github.com/Priyash-Das/Photos/blob/main/Mini%20WhatsApp%20-%20Chat%20Management%20App.mp4)  
 
